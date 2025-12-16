@@ -1,3 +1,4 @@
+
 Django-based Customer Relationship Management (CRM) application for managing leads, agents, and customer interactions. This system helps organizations track potential customers, assign leads to agents, manage follow-ups, and organize leads by categories.
 
 ## Features
